@@ -5,8 +5,7 @@ A classic browser-based Rock Paper Scissors game with score tracking and respons
 
 ![Game Screenshot](./images/screenshot.png)
 
-
-## Technologies Used 🛠️
+## Technologies Used 
 - HTML
 - CSS 
 - JavaScript
